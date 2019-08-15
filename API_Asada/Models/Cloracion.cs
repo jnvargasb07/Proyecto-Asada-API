@@ -12,5 +12,6 @@ namespace API_Asada.Models
         public DateTime hora { get; set; }
         public double ppm { get; set; }
         public char sector { get; set; }
+
     }
 }
