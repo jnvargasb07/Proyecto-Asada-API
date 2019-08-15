@@ -14,5 +14,7 @@ namespace API_Asada.Models
 
         }
         public DbSet<Cloracion> Cloracion { get; set; }
+        public DbSet<Aforo> Aforo { get; set; }
+        public DbSet<Agua_No_Contabilizada> Agua_No_Contabilizada { get; set; }
     }
 }
