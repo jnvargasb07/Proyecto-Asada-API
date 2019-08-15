@@ -11,8 +11,10 @@ namespace API_Asada.Models
     {
         [Key]
         public int Id { get; set; }
+
         [ForeignKey("Material")]
         public int Fk_material { get; set; }
+        public virtual Material Material { get; set; }
         public int cantidad { get; set; }
         public Double precio_kilo { get; set; }
         public DateTime fecha { get; set; }
