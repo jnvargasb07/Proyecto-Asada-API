@@ -1,0 +1,14 @@
+C:\Users\EQUIPO\Documents\Proyecto_Asada\BackEnd\Proyecto-Asada-API\API_Asada\bin\Debug\netcoreapp2.1\API_Asada.deps.json
+C:\Users\EQUIPO\Documents\Proyecto_Asada\BackEnd\Proyecto-Asada-API\API_Asada\bin\Debug\netcoreapp2.1\API_Asada.runtimeconfig.json
+C:\Users\EQUIPO\Documents\Proyecto_Asada\BackEnd\Proyecto-Asada-API\API_Asada\bin\Debug\netcoreapp2.1\API_Asada.runtimeconfig.dev.json
+C:\Users\EQUIPO\Documents\Proyecto_Asada\BackEnd\Proyecto-Asada-API\API_Asada\bin\Debug\netcoreapp2.1\API_Asada.dll
+C:\Users\EQUIPO\Documents\Proyecto_Asada\BackEnd\Proyecto-Asada-API\API_Asada\bin\Debug\netcoreapp2.1\API_Asada.pdb
+C:\Users\EQUIPO\Documents\Proyecto_Asada\BackEnd\Proyecto-Asada-API\API_Asada\obj\Debug\netcoreapp2.1\API_Asada.csprojAssemblyReference.cache
+C:\Users\EQUIPO\Documents\Proyecto_Asada\BackEnd\Proyecto-Asada-API\API_Asada\obj\Debug\netcoreapp2.1\API_Asada.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Documents\Proyecto_Asada\BackEnd\Proyecto-Asada-API\API_Asada\obj\Debug\netcoreapp2.1\API_Asada.RazorAssemblyInfo.cache
+C:\Users\EQUIPO\Documents\Proyecto_Asada\BackEnd\Proyecto-Asada-API\API_Asada\obj\Debug\netcoreapp2.1\API_Asada.RazorAssemblyInfo.cs
+C:\Users\EQUIPO\Documents\Proyecto_Asada\BackEnd\Proyecto-Asada-API\API_Asada\obj\Debug\netcoreapp2.1\API_Asada.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Documents\Proyecto_Asada\BackEnd\Proyecto-Asada-API\API_Asada\obj\Debug\netcoreapp2.1\API_Asada.AssemblyInfo.cs
+C:\Users\EQUIPO\Documents\Proyecto_Asada\BackEnd\Proyecto-Asada-API\API_Asada\obj\Debug\netcoreapp2.1\API_Asada.RazorTargetAssemblyInfo.cache
+C:\Users\EQUIPO\Documents\Proyecto_Asada\BackEnd\Proyecto-Asada-API\API_Asada\obj\Debug\netcoreapp2.1\API_Asada.dll
+C:\Users\EQUIPO\Documents\Proyecto_Asada\BackEnd\Proyecto-Asada-API\API_Asada\obj\Debug\netcoreapp2.1\API_Asada.pdb
