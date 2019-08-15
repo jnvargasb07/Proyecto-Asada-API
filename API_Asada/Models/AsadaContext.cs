@@ -27,5 +27,8 @@ namespace API_Asada.Models
         public DbSet<Asada_Queja> Asada_Queja { get; set; }
         public DbSet<Averia> Averia { get; set; }
         public DbSet<Inventario_Averia> Inventario_Averia { get; set; }
+        public DbSet<Cuenta_Bancaria> Cuenta_Bancaria { get; set; }
+        public DbSet<Factura> Factura { get; set; }
+        public DbSet<Cheque> Cheque { get; set; }
     }
 }
