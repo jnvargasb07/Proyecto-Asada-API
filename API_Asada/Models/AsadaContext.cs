@@ -18,5 +18,8 @@ namespace API_Asada.Models
         public DbSet<Agua_No_Contabilizada> Agua_No_Contabilizada { get; set; }
         public DbSet<Material> Material { get; set; }
         public DbSet<Reciclaje> Reciclaje { get; set; }
+        public DbSet<Inventario_Stock> Inventario_Stock { get; set; }
+        public DbSet<Registro_Compra> Registro_Compra { get; set; }
+        public DbSet<Registro_Salida> Registro_Salida { get; set; }
     }
 }
