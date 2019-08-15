@@ -21,5 +21,8 @@ namespace API_Asada.Models
         public DbSet<Inventario_Stock> Inventario_Stock { get; set; }
         public DbSet<Registro_Compra> Registro_Compra { get; set; }
         public DbSet<Registro_Salida> Registro_Salida { get; set; }
+        public DbSet<Compra_Inventario> Compra_Inventario { get; set; }
+        public DbSet<Salida_Inventario> Salida_Inventario { get; set; }
+        public DbSet<Prestamo_Inventario> Prestamo_Inventario { get; set; }
     }
 }

@@ -7,6 +7,8 @@
   <ItemGroup>
     <Compile Remove="Migrations\20190815211305_Aforo.cs" />
     <Compile Remove="Migrations\20190815211305_Aforo.Designer.cs" />
+    <Compile Remove="Migrations\20190815215046_Aforo.cs" />
+    <Compile Remove="Migrations\20190815215046_Aforo.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
