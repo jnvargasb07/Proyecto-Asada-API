@@ -30,5 +30,6 @@ namespace API_Asada.Models
         public DbSet<Cuenta_Bancaria> Cuenta_Bancaria { get; set; }
         public DbSet<Factura> Factura { get; set; }
         public DbSet<Cheque> Cheque { get; set; }
+        public DbSet<Factura_Cheque> Factura_Cheque { get; set; }
     }
 }
