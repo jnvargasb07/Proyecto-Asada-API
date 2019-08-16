@@ -9,9 +9,18 @@
     <Compile Remove="Migrations\20190815211305_Aforo.Designer.cs" />
     <Compile Remove="Migrations\20190815215046_Aforo.cs" />
     <Compile Remove="Migrations\20190815215046_Aforo.Designer.cs" />
+    <Compile Remove="Migrations\20190816053321_DB_Migrations.cs" />
+    <Compile Remove="Migrations\20190816053321_DB_Migrations.Designer.cs" />
+    <Compile Remove="Migrations\20190816053549_DB_Migrations_2.cs" />
+    <Compile Remove="Migrations\20190816053549_DB_Migrations_2.Designer.cs" />
+    <Compile Remove="Migrations\20190816053854_Cloracion.cs" />
+    <Compile Remove="Migrations\20190816053854_Cloracion.Designer.cs" />
+    <Compile Remove="Migrations\20190816053955_Aforo.cs" />
+    <Compile Remove="Migrations\20190816053955_Aforo.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Migrations\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 

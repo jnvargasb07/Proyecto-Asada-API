@@ -10,7 +10,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace API_Asada.Migrations
 {
     [DbContext(typeof(AsadaContext))]
-    [Migration("20190816053321_DB_Migrations")]
+    [Migration("20190816054050_DB_Migrations")]
     partial class DB_Migrations
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
