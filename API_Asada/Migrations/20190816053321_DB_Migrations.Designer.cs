@@ -3,15 +3,17 @@ using System;
 using API_Asada.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 namespace API_Asada.Migrations
 {
     [DbContext(typeof(AsadaContext))]
-    partial class AsadaContextModelSnapshot : ModelSnapshot
+    [Migration("20190816053321_DB_Migrations")]
+    partial class DB_Migrations
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

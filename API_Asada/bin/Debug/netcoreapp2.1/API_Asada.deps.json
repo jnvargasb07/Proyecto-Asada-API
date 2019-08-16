@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "0a9563f8976e352fd25eafd4514d7a65e9502a26"
+    "signature": "b27fffca05f9fab1603e4b85399e5f2f382f194f"
   },
   "compilationOptions": {
     "defines": [
@@ -27,7 +27,8 @@
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0",
-          "Npgsql.EntityFrameworkCore.PostgreSQL": "2.1.2"
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "2.1.2",
+          "ServiceStack.Interfaces": "5.6.0"
         },
         "runtime": {
           "API_Asada.dll": {}
@@ -312,6 +313,20 @@
         },
         "compile": {
           "lib/netstandard1.0/Remotion.Linq.dll": {}
+        }
+      },
+      "ServiceStack.Interfaces/5.6.0": {
+        "dependencies": {
+          "System.Runtime.Serialization.Primitives": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ServiceStack.Interfaces.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.6.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/ServiceStack.Interfaces.dll": {}
         }
       },
       "System.Collections.Immutable/1.5.0": {},
@@ -3306,6 +3321,13 @@
       "sha512": "sha512-fK/76UmpC0FXBlGDFVPLJHQlDLYnGC+XY3eoDgCgbtrhi0vzbXDQ3n/IYHhqSKqXQfGw/u04A1drWs7rFVkRjw==",
       "path": "remotion.linq/2.2.0",
       "hashPath": "remotion.linq.2.2.0.nupkg.sha512"
+    },
+    "ServiceStack.Interfaces/5.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZdEUntIrc0nxnFmw0YEP9E2BlMY6D5c4c9ryhaW04ABrKUW08scJJc6czhDYya8yjm+/WmPnnlFM1YZ7BLoVwQ==",
+      "path": "servicestack.interfaces/5.6.0",
+      "hashPath": "servicestack.interfaces.5.6.0.nupkg.sha512"
     },
     "System.Collections.Immutable/1.5.0": {
       "type": "package",
