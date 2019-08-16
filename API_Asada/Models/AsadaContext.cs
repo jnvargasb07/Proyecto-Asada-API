@@ -14,5 +14,23 @@ namespace API_Asada.Models
 
         }
         public DbSet<Cloracion> Cloracion { get; set; }
+        public DbSet<Aforo> Aforo { get; set; }
+        public DbSet<Agua_No_Contabilizada> Agua_No_Contabilizada { get; set; }
+        public DbSet<Material> Material { get; set; }
+        public DbSet<Reciclaje> Reciclaje { get; set; }
+        public DbSet<Inventario_Stock> Inventario_Stock { get; set; }
+        public DbSet<Registro_Compra> Registro_Compra { get; set; }
+        public DbSet<Registro_Salida> Registro_Salida { get; set; }
+        public DbSet<Compra_Inventario> Compra_Inventario { get; set; }
+        public DbSet<Salida_Inventario> Salida_Inventario { get; set; }
+        public DbSet<Prestamo_Inventario> Prestamo_Inventario { get; set; }
+        public DbSet<Asada_Queja> Asada_Queja { get; set; }
+        public DbSet<Averia> Averia { get; set; }
+        public DbSet<Inventario_Averia> Inventario_Averia { get; set; }
+        public DbSet<Cuenta_Bancaria> Cuenta_Bancaria { get; set; }
+        public DbSet<Factura> Factura { get; set; }
+        public DbSet<Cheque> Cheque { get; set; }
+        public DbSet<Factura_Cheque> Factura_Cheque { get; set; }
+        public DbSet<users> users { get; set; }
     }
 }

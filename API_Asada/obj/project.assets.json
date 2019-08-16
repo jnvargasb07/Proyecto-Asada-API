@@ -2895,6 +2895,18 @@
           }
         }
       },
+      "ServiceStack.Interfaces/5.6.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.Serialization.Primitives": "4.3.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/ServiceStack.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ServiceStack.Interfaces.dll": {}
+        }
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -7462,6 +7474,21 @@
         "version.txt"
       ]
     },
+    "ServiceStack.Interfaces/5.6.0": {
+      "sha512": "ZdEUntIrc0nxnFmw0YEP9E2BlMY6D5c4c9ryhaW04ABrKUW08scJJc6czhDYya8yjm+/WmPnnlFM1YZ7BLoVwQ==",
+      "type": "package",
+      "path": "servicestack.interfaces/5.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/ServiceStack.Interfaces.dll",
+        "lib/net45/ServiceStack.Interfaces.xml",
+        "lib/netstandard2.0/ServiceStack.Interfaces.dll",
+        "lib/netstandard2.0/ServiceStack.Interfaces.xml",
+        "servicestack.interfaces.5.6.0.nupkg.sha512",
+        "servicestack.interfaces.nuspec"
+      ]
+    },
     "System.AppContext/4.3.0": {
       "sha512": "fKC+rmaLfeIzUhagxY17Q9siv/sPrjjKcfNg1Ic8IlQkZLipo8ljcaZQu4VtI4Jqbzjc2VTjzGLF6WmsRXAEgA==",
       "type": "package",
@@ -11881,7 +11908,8 @@
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
-      "Npgsql.EntityFrameworkCore.PostgreSQL >= 2.1.2"
+      "Npgsql.EntityFrameworkCore.PostgreSQL >= 2.1.2",
+      "ServiceStack.Interfaces >= 5.6.0"
     ]
   },
   "packageFolders": {
@@ -11944,6 +11972,10 @@
           "Npgsql.EntityFrameworkCore.PostgreSQL": {
             "target": "Package",
             "version": "[2.1.2, )"
+          },
+          "ServiceStack.Interfaces": {
+            "target": "Package",
+            "version": "[5.6.0, )"
           }
         },
         "imports": [
