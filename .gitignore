@@ -1,2 +1,7 @@
 
 API_Asada/\.vs/API_Asada/v16/
+
+*.ide-shm
+#Ignore all the information and changes from this folder
+API_Asada/.vs/
+API_Asada/.vs/**
