@@ -16,5 +16,6 @@
     <_SelectedScaffolderID>ApiControllerWithActionsScaffolder</_SelectedScaffolderID>
     <_SelectedScaffolderCategoryPath>root/Common</_SelectedScaffolderCategoryPath>
     <WebStackScaffolding_DbContextTypeFullName>API_Asada.Models.AsadaContext</WebStackScaffolding_DbContextTypeFullName>
+    <NameOfLastUsedPublishProfile>API_PUBLICADA</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
